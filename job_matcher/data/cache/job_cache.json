@@ -1,0 +1,26 @@
+{
+  "entry-level_software_developer_united_states": {
+    "timestamp": "2025-04-12T15:59:32.313811",
+    "query": "Entry-level Software Developer",
+    "location": "United States",
+    "jobs": []
+  },
+  "junior_data_analyst_united_states": {
+    "timestamp": "2025-04-12T15:59:44.656862",
+    "query": "Junior Data Analyst",
+    "location": "United States",
+    "jobs": []
+  },
+  "marketing_assistant_united_states": {
+    "timestamp": "2025-04-12T15:59:54.655683",
+    "query": "Marketing Assistant",
+    "location": "United States",
+    "jobs": []
+  },
+  "administrative_assistant_united_states": {
+    "timestamp": "2025-04-12T16:00:10.259347",
+    "query": "Administrative Assistant",
+    "location": "United States",
+    "jobs": []
+  }
+}

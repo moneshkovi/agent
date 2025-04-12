@@ -1,0 +1,59 @@
+JOHN SMITH
+123 Main Street, San Francisco, CA 94105
+john.smith@email.com | (555) 123-4567
+github.com/johnsmith | linkedin.com/in/johnsmith
+
+SUMMARY
+Recent computer science graduate with a passion for software development and data analysis. Looking for entry-level positions in San Francisco or remote opportunities. Strong problem-solving skills and experience with various programming languages and frameworks.
+
+EDUCATION
+Bachelor of Science in Computer Science
+University of California, Berkeley
+Graduated: May 2024
+GPA: 3.7/4.0
+Relevant Coursework: Data Structures, Algorithms, Database Systems, Machine Learning, Web Development
+
+SKILLS
+Programming Languages: Python, Java, JavaScript, TypeScript, SQL, HTML/CSS
+Frameworks/Libraries: React, Node.js, Express, Django, Flask, Bootstrap
+Tools & Technologies: Git, Docker, AWS, Azure, MongoDB, PostgreSQL
+Soft Skills: Communication, Teamwork, Problem Solving, Critical Thinking, Time Management
+
+PROJECTS
+Personal Finance Dashboard (2023)
+- Developed a full-stack web application using React, Node.js, and MongoDB
+- Implemented user authentication, expense tracking, and budget visualization features
+- Utilized Chart.js for data visualization and AWS for deployment
+
+Smart Study Scheduler (2022)
+- Created a Python-based application with Flask backend and SQLite database
+- Designed an algorithm to optimize study schedules based on course difficulty and upcoming deadlines
+- Implemented email notification system to remind users about upcoming tasks
+
+EXPERIENCE
+Software Development Intern
+TechStartup Inc., Remote
+June 2023 - August 2023
+- Collaborated with a team of 5 developers to create new features for the company's main product
+- Implemented frontend components using React and contributed to REST API development
+- Participated in daily stand-ups and bi-weekly sprint planning meetings
+
+Teaching Assistant - Introduction to Programming
+University of California, Berkeley
+January 2023 - May 2023
+- Assisted professor in teaching Python programming concepts to 30+ undergraduate students
+- Led weekly lab sessions focusing on practical coding exercises
+- Graded assignments and provided constructive feedback to students
+
+CERTIFICATIONS
+- AWS Certified Cloud Practitioner (2023)
+- Microsoft Certified: Azure Fundamentals (2023)
+- freeCodeCamp Responsive Web Design (2022)
+
+ACTIVITIES
+- Member, Association for Computing Machinery (ACM)
+- Volunteer, Code for America
+- Participant, HackBerkeley 2022 (3rd place)
+
+REFERENCES
+Available upon request
